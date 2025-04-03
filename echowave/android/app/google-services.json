@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013422993345",
+    "project_id": "echowave-3b5c3",
+    "storage_bucket": "echowave-3b5c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013422993345:android:09dd8e004cb9e15385c940",
+        "android_client_info": {
+          "package_name": "com.example.echowave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn0C_8_U20du9KlY7T6CFibc7j629PAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
